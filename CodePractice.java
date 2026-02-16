@@ -23,8 +23,6 @@ class Main {
             left++;right--;
         }
         
-        System.out.println(String.join("", strArr));
-        
-        return str;
+        return String.join("", strArr);
     }
 }
